@@ -1,0 +1,9 @@
+# Gitignore tiedosto IslandGame projektille
+# Joni ja Malin
+# 
+
+# 
+*.user
+
+# Dokumentaatio ohitus
+/dok/
