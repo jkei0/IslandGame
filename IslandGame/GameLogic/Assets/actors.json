@@ -1,0 +1,12 @@
+{
+  "Animal": [
+    { "name": "Dolphin"    },
+    { "name": "Kraken"     },
+    { "name": "Seamonster" },
+    { "name": "Shark"      }
+  ],
+  "Common": [
+    { "name": "Boat"       },
+    { "name": "Vortex"     }
+  ]
+}
